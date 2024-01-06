@@ -1,5 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 body {
-    height: 95vh;
+    height: 100vh;
     background-image: url(./5197210.jpg);
     background-size: cover;
     background-repeat: no-repeat;
