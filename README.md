@@ -15,3 +15,6 @@ Welcome to Glassmorphic QR, a text to QR code generator project with a sleek gla
 - **JavaScript**: Programming language for implementing functionality and interactivity, including QR code generation.
 
 ### PROJECT LINK: https://sriharivas5.github.io/Text-To-QrCode-Generator/
+![Screenshot 2024-05-07 143055](https://github.com/Sriharivas5/Text-To-QrCode-Generator/assets/155137670/eb19cb4f-cdc7-40f4-b90b-9231975866ef)
+![Screenshot 2024-05-07 143120](https://github.com/Sriharivas5/Text-To-QrCode-Generator/assets/155137670/59661a60-c600-451f-a387-3adc794f3111)
+
